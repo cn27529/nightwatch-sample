@@ -1,4 +1,4 @@
-# nightwatch_sample
+# nightwatch-sample
 
 ## 安裝教學
    
